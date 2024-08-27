@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Satghumti Printing Press Website
+
+So this **Business Portfolio Website** which is done using **React JS and Tailwind CSS**. <br>
+
+
+# Watch the code on the branch **master**
+
+# Enjoy Your Visit In My Code
+>>>>>>> c6f1e1c3342aed1ae8285d0abaaa3d694cc89e57
